@@ -7,4 +7,9 @@ Throughout this module, the precipitation in Oahu was analyzed. The analysis don
 
 # Results
 
+|**June Statistics**|**December Statistics**|
+| ------------- | ------------- |
+|https://github.com/LacyS6198/surfs_up/blob/main/Images/June_Stats.png|
+https://github.com/LacyS6198/surfs_up/blob/main/Images/December_Stats.png|
+
 # Summary
