@@ -9,7 +9,6 @@ Throughout this module, the precipitation in Oahu was analyzed. The analysis don
 
 |**June Statistics**|**December Statistics**|
 | ------------- | ------------- |
-|![June Stats](/Images/June_Stats.png)|
-![December Stats](/Images/December_Stats.png)|
+|![June Stats](/Images/June_Stats.png)|![December Stats](/Images/December_Stats.png)|
 
 # Summary
